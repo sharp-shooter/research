@@ -15,7 +15,9 @@ run powershell,then:
 
 
 
+or:
 
+powershell -exec bypass ./start.ps1
 
 Now It can bypass Windows Defender (2021--27)
 
