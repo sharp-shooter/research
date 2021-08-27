@@ -19,4 +19,4 @@ run powershell,then:
 
 Now It can bypass Windows Defender (2021--27)
 
-[](https://github.com/sharp-shooter/research/blob/master/code/mimikatz/screenshot.png)
+[screenshot](screenshot.png)
